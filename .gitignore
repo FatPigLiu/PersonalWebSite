@@ -332,3 +332,5 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
+MVC Program1/Web.Debug.config
+MVC Program1/Web.Release.config
